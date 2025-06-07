@@ -20,6 +20,7 @@ https://github.com/Juliocarlo/CRIACAO-DE-VM-DE-DADOS-SQL/blob/main/SELECIONAR%20
 4- Após escolhido o serviço, a etapa será a criação da configuração dos parâmetros normais de uma VM básica, 
 com a escolha de nome do servidor, qual será a autenticação a ser utilizada.
 
+https://github.com/Juliocarlo/CRIACAO-DE-VM-DE-DADOS-SQL/blob/main/CONFIGURA%C3%87%C3%83O%20DO%20NOME%20DO%20SERVIDOR%20E%20FORMA%20DE%20AUTENTICA%C3%87%C3%83O%20FIGURA%204.png
 
 5- Configurar a rede a ser utilizada, se deseja ou não regras de Firewall.
 
