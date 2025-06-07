@@ -29,6 +29,7 @@ https://github.com/Juliocarlo/CRIACAO-DE-VM-DE-DADOS-SQL/blob/main/SELECIONANDO%
 
 6- Na aba segurança, definir as credenciais de identidade e de encriptação  da segurança.
 
+https://github.com/Juliocarlo/CRIACAO-DE-VM-DE-DADOS-SQL/blob/main/CONFIGURAR%20A%20SEGURAN%C3%87A%20DA%20VM%20DO%20BANCO%20DE%20DADOS%20FIGURA%206.png
 
 7 – Na aba de configurações adicionais definir se deseja utilizar o Microsoft Defender para SQL.
 
