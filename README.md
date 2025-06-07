@@ -7,8 +7,10 @@ Criando uma máquina virtual de banco de dados no Azure
 Realizando este procedimento, a opção de máquina virtual do sql Azure irá aparecer nas opções, 
 e será possível escolher esta opção pra a criação da máquina virtual de serviços de banco de dados.
 
+https://github.com/Juliocarlo/CRIACAO-DE-VM-DE-DADOS-SQL/blob/main/VM%20DE%20BANCO%20DE%20DADOS%20SQL%20FIGURA%201.png
 
 2- Selecionar a opção de SQL DO AZURE e depois escolher a opção de criar máquina virtual.
+
 
 
 3- Na etapa seguinte, poderá escolher qual é o serviço de banco de dados ser criado, e que atenderá a demanda necessária para o atendimento ao serviço.
