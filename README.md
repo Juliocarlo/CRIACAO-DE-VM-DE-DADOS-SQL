@@ -33,6 +33,7 @@ https://github.com/Juliocarlo/CRIACAO-DE-VM-DE-DADOS-SQL/blob/main/CONFIGURAR%20
 
 7 – Na aba de configurações adicionais definir se deseja utilizar o Microsoft Defender para SQL.
 
+https://github.com/Juliocarlo/CRIACAO-DE-VM-DE-DADOS-SQL/blob/main/CONFIGURA%C3%87%C3%95ES%20ADICIONAIS%20DE%20SEGURAN%C3%87A%20FIGURA%207.png
 
 8- Na aba rótulos, criar os rótulos.
 
