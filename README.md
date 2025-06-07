@@ -25,6 +25,7 @@ https://github.com/Juliocarlo/CRIACAO-DE-VM-DE-DADOS-SQL/blob/main/CONFIGURA%C3%
 
 5- Configurar a rede a ser utilizada, se deseja ou não regras de Firewall.
 
+https://github.com/Juliocarlo/CRIACAO-DE-VM-DE-DADOS-SQL/blob/main/SELECIONANDO%20A%20REDE%20FIGURA%205.png
 
 6- Na aba segurança, definir as credenciais de identidade e de encriptação  da segurança.
 
