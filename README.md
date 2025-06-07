@@ -37,6 +37,7 @@ https://github.com/Juliocarlo/CRIACAO-DE-VM-DE-DADOS-SQL/blob/main/CONFIGURA%C3%
 
 8- Na aba rótulos, criar os rótulos.
 
+https://github.com/Juliocarlo/CRIACAO-DE-VM-DE-DADOS-SQL/blob/main/CONFIGURA%C3%87%C3%83O%20DOS%20R%C3%93TULOS%20FIGURA%208.png
 
 9- Na aba revisar e criar, se alguma configuração não estiver de acordo e faltando dados a serem definidos, irá apresentar falha de validação, 
 e qual o módulo da criação está a falha, então será necessário ir até este módulo para definir as configurações que não foram realizadas, conforme mostra a figura abaixo.
