@@ -11,7 +11,7 @@ https://github.com/Juliocarlo/CRIACAO-DE-VM-DE-DADOS-SQL/blob/main/VM%20DE%20BAN
 
 2- Selecionar a opção de SQL DO AZURE e depois escolher a opção de criar máquina virtual.
 
-
+https://github.com/Juliocarlo/CRIACAO-DE-VM-DE-DADOS-SQL/blob/main/SELECIONANDO%20CRIAR%20MAQUNA%20VIRTUAL%20FIGURA%202.png
 
 3- Na etapa seguinte, poderá escolher qual é o serviço de banco de dados ser criado, e que atenderá a demanda necessária para o atendimento ao serviço.
 
