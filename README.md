@@ -15,6 +15,7 @@ https://github.com/Juliocarlo/CRIACAO-DE-VM-DE-DADOS-SQL/blob/main/SELECIONANDO%
 
 3- Na etapa seguinte, poderá escolher qual é o serviço de banco de dados ser criado, e que atenderá a demanda necessária para o atendimento ao serviço.
 
+https://github.com/Juliocarlo/CRIACAO-DE-VM-DE-DADOS-SQL/blob/main/SELECIONAR%20O%20SERVI%C3%87O%20DESEJADO%20FIGURA%203.png
 
 4- Após escolhido o serviço, a etapa será a criação da configuração dos parâmetros normais de uma VM básica, 
 com a escolha de nome do servidor, qual será a autenticação a ser utilizada.
