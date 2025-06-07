@@ -45,4 +45,4 @@ Basta realizar as configurações que estiverem faltando ou erradas e solicitar 
 É importante sempre, ir observando o custo da VM durante a criação, e também o dimensionamento ou utilização de recursos que não serão utilizados, 
 pois cada recurso adicionado acarretará um aumento no valor de utilizador da VM. Deve-se atentar para que a utilização seja contido dentro do orçamento designado.
 
-
+https://github.com/Juliocarlo/CRIACAO-DE-VM-DE-DADOS-SQL/blob/main/REVIS%C3%83O%20E%20CRIA%C3%87%C3%83O%20DA%20VM%20FIGURA%209.png
